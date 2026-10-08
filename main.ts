@@ -79,7 +79,7 @@ app.innerHTML = `
     <div class="grain" aria-hidden="true"></div>
     <header class="site-header" data-header>
       <a class="wordmark" href="#top" aria-label="Delmack, voltar ao topo">
-        <img class="brand-logo" src="/assets/delmack-logo-green.png" alt="Delmack Consultoria" />
+        <img class="brand-logo" src="/delmack-logo-green.png" alt="Delmack Consultoria" />
       </a>
       <nav class="desktop-nav" aria-label="Navegação principal">
         <a href="#diagnostico">Diagnóstico</a>
