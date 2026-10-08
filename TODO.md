@@ -1,4 +1,4 @@
-# Delmack Consultoria — Entregas
+# Delmack Consultoria — Atual
 
 ## Nova experiência institucional orientada à conversão
 Criar uma nova versão moderna do site da Delmack Consultoria, inspirada na energia visual dos Reels fornecidos, com uma experiência premium, clara, responsiva e surpreendente, desenvolvida e revisada na Manus e preparada para publicação pelo usuário na Vercel.
